@@ -20,3 +20,4 @@ This Part of Speech (POS) Tagger is made by utilizing morphological features of 
 If you want to use this API, please cite:
 
 Trisna, I N. P., Musdholifah, A. and Sari, Y., 2020. Utilizing Morphological Features for Part-of-Speech Tagging of Bahasa Indonesia in Bidirectional LSTM. unpublished work.
+https://www.researchgate.net/publication/343736775_Utilizing_Morphological_Features_for_Part-of-Speech_Tagging_of_Bahasa_Indonesia_in_Bidirectional_LSTM
